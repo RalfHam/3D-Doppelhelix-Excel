@@ -1,4 +1,5 @@
 #### Interaktive 3D-Doppelhelix in Excel (XY-Punktdiagramm)
+![Vorschau der rotierenden Helix](Doppelhelix_xl.gif)
 
 Dieses Projekt enthält ein interaktives Excel-Modell, das eine mathematisch präzise Doppelhelix mit mehrfarbigen Sprossen in einem standardmäßigen 2D-XY-Punktdiagramm dreidimensional visualisiert. Das Modell funktioniert rein über native Excel-Formeln und benötigt keinerlei VBA oder Makros. 
 
