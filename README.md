@@ -23,6 +23,7 @@ Um die komplexen mathematischen Formeln und Verknüpfungen vor unbeabsichtigten 
 
 * Das Kennwort zum Aufheben des Blattschutzes lautet: **xx** bzw. **x**
 * Du kannst den Schutz jederzeit in Excel unter dem Reiter *Überprüfen* -> *Blattschutz aufheben* entfernen, wenn du einen Blick in die Formelstrukturen werfen oder das Modell erweitern möchtest.
+* Zur besseren Ansicht wurde der Hintergrund schwarz gefärbt (unter dem Reiter *Start* zu ändern) und die Überschriften ausgeblendet (unter dem Reiter *Ansicht* zu ändern)
 
 #### Lizenz
 
