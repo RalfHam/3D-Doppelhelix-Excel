@@ -21,7 +21,7 @@ Dieses Projekt enthält ein interaktives Excel-Modell, das eine mathematisch pr�
 
 Um die komplexen mathematischen Formeln und Verknüpfungen vor unbeabsichtigten Veränderungen zu schützen, sind die Tabellenblätter gesperrt. 
 
-* Das Kennwort zum Aufheben des Blattschutzes lautet: **xx** bzw. **x**
+* Es ist kein Kennwort zum Aufheben des Blattschutzes hinterlegt; einfach nur entsperren.
 * Du kannst den Schutz jederzeit in Excel unter dem Reiter *Überprüfen* -> *Blattschutz aufheben* entfernen, wenn du einen Blick in die Formelstrukturen werfen oder das Modell erweitern möchtest.
 * Zur besseren Ansicht wurde der Hintergrund schwarz gefärbt (unter dem Reiter *Start* zu ändern) und die Überschriften ausgeblendet (unter dem Reiter *Ansicht* zu ändern)
 
